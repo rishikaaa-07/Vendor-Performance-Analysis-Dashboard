@@ -19,6 +19,9 @@ An interactive Power BI dashboard designed to analyze vendor performance across 
 - Power BI (for data modeling and visualization)
 - DAX (for calculated metrics and dynamic filtering)
 
+## 🎯 Dashboard Preview
+> <img width="777" height="436" alt="image" src="https://github.com/user-attachments/assets/22c3dcc0-f5e9-4985-b438-2bb090bc2e81" />
+
 ## Installation
 1. Clone the repository:
    ```bash
